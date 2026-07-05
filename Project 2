@@ -1,0 +1,74 @@
+# 🤖 Rule-Based AI Chatbot
+
+A simple Rule-Based AI Chatbot built using Python as part of the DecodeLabs Artificial Intelligence Internship - Project 1.
+
+## 📌 Project Overview
+
+This chatbot responds to predefined user inputs using Python's `if-elif-else` statements. It demonstrates the fundamentals of rule-based artificial intelligence without using machine learning.
+
+## 🚀 Features
+
+- Greets users
+- Responds to common questions
+- Handles unknown inputs
+- Runs continuously using a loop
+- Exits gracefully on command
+- Uses rule-based decision making
+
+## 🛠 Technologies Used
+
+- Python 3
+
+## Concepts Covered
+
+- Control Flow
+- if-elif-else
+- while loop
+- User Input
+- String Manipulation
+- Rule-Based Artificial Intelligence
+
+## ▶️ How to Run
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/Rule-Based-AI-Chatbot.git
+```
+
+2. Navigate into the project
+
+```bash
+cd Rule-Based-AI-Chatbot
+```
+
+3. Run the chatbot
+
+```bash
+python chatbot.py
+```
+
+## 💬 Sample Conversation
+
+```
+Bot: Hello!
+
+You: hi
+
+Bot: Hello! How can I help you?
+
+You: what is ai
+
+Bot: AI stands for Artificial Intelligence.
+
+You: bye
+
+Bot: Goodbye! Have a nice day.
+```
+
+
+## 👨‍💻 Author
+
+Mohammad Zeeshan
+
+DecodeLabs AI Internship Project 1
